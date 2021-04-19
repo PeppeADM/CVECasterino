@@ -1,6 +1,7 @@
 extends Button
 
 func _ready():
+	#ADMREGNA
 #	Button.set_text('Nuovo Gioco');
 	set_process(false);
 #	VOICES = get_children();
